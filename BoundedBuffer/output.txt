@@ -1,0 +1,20 @@
+Producer #0 time = 0.589865, producing data item #1, item value=1
+Consumer #0 time = 0.659962, consuming data item with value=0
+Producer #1 time = 0.698715, producing data item #1, item value=1
+Producer #0 time = 0.713541, producing data item #2, item value=2
+Consumer #0 time = 0.732391, consuming data item with value=0
+Producer #1 time = 0.761591, producing data item #2, item value=2
+Consumer #0 time = 0.777431, consuming data item with value=1
+Producer #0 time = 0.783701, producing data item #3, item value=3
+Consumer #1 time = 0.795114, consuming data item with value=1
+Producer #2 time = 0.816241, producing data item #1, item value=1
+Producer #1 time = 0.834788, producing data item #3, item value=3
+Consumer #2 time = 0.850224, consuming data item with value=2
+Producer #0 time = 0.870821, producing data item #4, item value=4
+Consumer #1 time = 0.874644, consuming data item with value=0
+Producer #3 time = 0.881894, producing data item #1, item value=1
+Consumer #0 time = 0.901938, consuming data item with value=2
+Producer #2 time = 0.908094, producing data item #2, item value=2
+Consumer #2 time = 0.929818, consuming data item with value=3
+Consumer #1 time = 0.940368, consuming data item with value=0
+Consumer #3 time = 0.946764, consuming data item with value=1
